@@ -1,0 +1,3 @@
+interface FuncionesExtra{
+    void mantenimiento();
+}
